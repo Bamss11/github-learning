@@ -25,3 +25,7 @@ I am learning Git and GitHub as part of my journey toward becoming a professiona
 ## Goal
 
 To build a professional Data Analyst portfolio and develop the skills needed to manage and showcase real-world data analysis projects.
+
+## Branch Practice
+
+I am learning how Git branches work.
